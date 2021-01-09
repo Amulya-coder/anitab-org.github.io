@@ -65,7 +65,10 @@ const styles = StyleSheet.create({
   logoContainer: {
     flex: 1,
     marginRight:70,
+<<<<<<< HEAD
 
+=======
+>>>>>>> a929991... release: Merge current develop to production (#191)
   },
   buttonContainer: { marginTop: 25, marginLeft: 40 },
 });
