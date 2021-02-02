@@ -66,9 +66,12 @@ const styles = StyleSheet.create({
     flex: 1,
     marginRight:70,
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> a929991... release: Merge current develop to production (#191)
+=======
+>>>>>>> upstream/production
   },
   buttonContainer: { marginTop: 25, marginLeft: 40 },
 });
